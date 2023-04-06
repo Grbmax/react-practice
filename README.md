@@ -1,4 +1,4 @@
-## NextJSv13 - TailwindCSS Template
+## Practice ReactHooks, API
 
 You don't choose your starter Pokemon everyday, do you?
 
